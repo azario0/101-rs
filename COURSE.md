@@ -186,6 +186,8 @@ This module is about learning to write actual Rust applications. At the end of t
 
 
 ### C - Multitasking
+- **Fearless concurrency**
+- **Rayon**
 - **Atomic types**
 - **Multithreading: Send/Sync/Channel....**
 - **How the borrow checker helps us**
